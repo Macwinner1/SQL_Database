@@ -1,0 +1,1 @@
+select WarehouseID from warehouse;

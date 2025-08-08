@@ -1,0 +1,1 @@
+select WarehouseID inventory from warehouse;
